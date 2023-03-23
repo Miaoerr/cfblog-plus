@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blogs>
+	<blog>
+		<title>如何创建本博客</title>
+		<content># 如何创建本博客</content>
+		<url>https://blog.miaoer.eu.org/article/000002/createblog.html</url>
+		<time>2023-03-22</time>
+	</blog>
+	<blog>
+		<title>Hello Blog</title>
+		<content># Hello Blog</content>
+		<url>https://blog.miaoer.eu.org/article/000001/helloblog.html</url>
+		<time>2023-03-22</time>
+	</blog>
+</blogs>
